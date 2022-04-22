@@ -1,1 +1,1 @@
-# front-end-javascript-frameworks-development
+# Front-end JavaScript frameworks
